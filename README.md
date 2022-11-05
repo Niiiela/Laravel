@@ -1,6 +1,7 @@
 
 <p>Projeto desenvolvido no Laravel</P>
-![image](https://user-images.githubusercontent.com/73238827/200142810-27dc8f9d-dca2-49f5-9119-7f3cf96b3ba5.png);
+
+<p>![image](https://user-images.githubusercontent.com/73238827/200142810-27dc8f9d-dca2-49f5-9119-7f3cf96b3ba5.png)</p>
 
 
 
