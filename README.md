@@ -1,7 +1,11 @@
 
-
-
+<p>Projeto desenvolvido no Laravel</P>
 ![image](https://user-images.githubusercontent.com/73238827/200142810-27dc8f9d-dca2-49f5-9119-7f3cf96b3ba5.png)
+
+![image](https://user-images.githubusercontent.com/73238827/200142836-2da0c593-2095-42f6-a966-887d8f8eb2ed.png)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
